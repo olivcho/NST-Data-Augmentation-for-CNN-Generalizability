@@ -1,3 +1,5 @@
-data/train
-data/val
-
+data/source_images/
+.DS_Store
+data/processed/
+data/source_images/
+data/style_images/
