@@ -1,0 +1,17 @@
+Train 2 models
+1) object detector with no adversarial training data
+2) object detector with adversarial training data
+
+Adversarial training data pipeline
+- Apply style transfer to source_images using style_images
+
+Execution
+- Try non-adversarial object detector on non-adversarial and adversarial data
+- Try adversarial object detector on non-adversarial and adversarial data
+
+Analysis
+- Compare accuracy, precision, recall from all four groups
+
+Expected results
+- Non-adversarial object detector will perform well on non-adversarial data and significantly drop off for adversarial data
+- Adversarial object detector will perform better on non-adversarial data than adversarial data
