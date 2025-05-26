@@ -15,3 +15,5 @@ Analysis
 Expected results
 - Non-adversarial object detector will perform well on non-adversarial data and significantly drop off for adversarial data
 - Adversarial object detector will perform better on non-adversarial data than adversarial data
+
+python style.py -s <style_image> -c <content_image> -m <model_name> -g 0
