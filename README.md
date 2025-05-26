@@ -2,7 +2,7 @@
 # Neural Style Transfer for Improved Object Detection
 
 ## Summary
-This project demonstrates that using neural style transfer (NST) to generate additional training samples can significantly improve the generalizability of convolutional neural networks (CNNs) for object detection tasks. By augmenting the training dataset with stylized images, we achieved a 15% increase across key metrics including accuracy, recall, and precision.
+Using neural style transfer (NST) to generate additional training samples can improve the generalizability of convolutional neural networks (CNNs) for object detection tasks.
 
 ## Dataset
 - Base images from Imagenette (subset of ImageNet)
