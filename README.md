@@ -1,7 +1,7 @@
 
 # Neural Style Transfer for Improved Object Detection
 
-[Read my write-up!]([url](https://docs.google.com/document/d/1hd2KBQsvwObmYqkbwON-0IAmROAVXkK0nj-tWbZXeGk/edit?usp=sharing))
+[Read my write-up!](https://docs.google.com/document/d/1hd2KBQsvwObmYqkbwON-0IAmROAVXkK0nj-tWbZXeGk/edit?usp=sharing)
 
 ## Summary
 Using neural style transfer (NST) to generate additional training samples can improve the generalizability of convolutional neural networks (CNNs) for object detection tasks.
